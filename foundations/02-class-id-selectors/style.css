@@ -1,0 +1,19 @@
+.odd-num{
+    background-color: pink;
+    font-family: 'Veranda','DejaVu Sans',sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#id2{
+    color: blue;
+    font-size: 36px;
+}
+
+#id4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
